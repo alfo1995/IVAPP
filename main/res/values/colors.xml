@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#e80105</color>
+    <color name="white">#ffffff</color>
+    <color name="bg_gradient_start">#b21331</color>
+    <color name="bg_gradient_end">#820d2a</color>
+    <color name="bg_button_login">#380813</color>
+    <color name="fab1_color">#ef940b</color>
+    <color name="fab2_color">#3b5998</color>
+</resources>

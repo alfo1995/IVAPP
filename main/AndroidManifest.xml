@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="it.ivapp.alfonsodamelio.a00000">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icona3"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+              </activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.austria"
+            android:label="Austria iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.belgio"
+            android:label="Belgio iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.bulgaria"
+            android:label="Bulgaria iva"></activity>
+        <activity
+        android:name="it.ivapp.alfonsodamelio.a00000.cipro"
+        android:label="Cipro iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.croazia"
+            android:label="Croazia iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.danish"
+            android:label="Danimarca iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.estonia"
+            android:label="Estonia iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.finlandia"
+            android:label="Finlandia iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.francia"
+            android:label="Francia iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.germania"
+            android:label="Germania iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.grecia"
+            android:label="Grecia iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.irlanda"
+            android:label="Irlanda iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.italia"
+            android:label="Italia iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.lituania"
+            android:label="Lituania iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.malta"
+            android:label="Malta iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.olanda"
+            android:label="Olanda iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.polonia"
+            android:label="Polonia iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.porto"
+            android:label="Portogallo iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.regno"
+            android:label="Regno Unito iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.rep"
+            android:label="Repubblica iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.romania"
+            android:label="Romania iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.slovacchia"
+            android:label="Slovacchia iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.slovenia"
+            android:label="Slovenia iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.spagna"
+            android:label="Spagna iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.svezia"
+            android:label="Svezia iva"></activity>
+        <activity
+            android:name="it.ivapp.alfonsodamelio.a00000.ungheria"
+            android:label="Ungheria iva"></activity>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </application>
+
+</manifest>

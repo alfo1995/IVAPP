@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ivapp.alfonsodamelio.a00000.it.ivapp.alfonsodamelio.a00000.MainActivity">
+    <item
+        android:id="@+id/mninYellow"
+        android:title="yellow background"/>
+    <item
+        android:id="@+id/mninGrey"
+        android:title="grey background"/>
+
+    <item
+        android:id="@+id/mninWhite"
+        android:title="white background" />
+    <item
+        android:id="@+id/share"
+        android:title="Let us your feedback!" />
+    <item
+        android:id="@+id/term"
+        android:title="Privacy Policy" />
+
+</menu>

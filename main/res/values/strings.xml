@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">IVAPP</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login">enter</string>
+    <string name="signup">Don\'t have account? Sign Up</string>
+    <string-array name="countries">
+
+        <item> Austria AT  20%</item>
+        <item> Belgio BE  21%</item>
+        <item> Bulgaria BG  20%</item>
+        <item> Cipro CY  19%</item>
+        <item> Croazia HR  25%</item>
+        <item> Danimarca DK  25%</item>
+        <item> Estonia EE  20%</item>
+        <item> Finlandia FI  24%</item>
+        <item> Francia FR  20%</item>
+        <item> Germania DE  19%</item>
+        <item> Grecia EL  23%</item>
+        <item> Irlanda IE  23%</item>
+        <item> Italia IT  22%</item>
+        <item> Lituania LT  21%</item>
+        <item> Malta MT  18%</item>
+        <item> Olanda NL  21%</item>
+        <item> Polonia PL  23%</item>
+        <item> Portogallo PT  23%</item>
+        <item> Regno Unito UK  20%</item>
+        <item> Repubblica CZ Ceca  21%</item>
+        <item> Romania RO  24%</item>
+        <item> Slovacchia SK  20%</item>
+        <item> Slovenia SI  22%</item>
+        <item> Spagna ES  21%</item>
+        <item> Svezia SE  25%</item>
+        <item> Ungheria HU  27% </item>
+
+    </string-array>
+</resources>
+
+
